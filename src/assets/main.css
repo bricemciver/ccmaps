@@ -1,0 +1,7 @@
+@import './base.css';
+
+#app {
+  top: 0;
+  bottom: 0;
+  position: fixed;
+}
