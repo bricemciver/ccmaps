@@ -1,6 +1,6 @@
 # chromecast-images-map
 
-This template should help get you started developing with Vue 3 in Vite.
+Leaflet Map to show locations of Chromecast screensaver images
 
 ## Recommended IDE Setup
 
