@@ -518,12 +518,12 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.592, 137.745]
+        "coordinates": [-119.592, 37.745]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzWk4VwDNIFzrVd1ixN8jITLzRN5U6Rk3NqZmauDxgshPsAVLzmucmqWtCveA0PiKFfG3Bvqybyo93gFLTGQZAQc596GHSgpBz3oNm0X-aOZWY6vsOG=w1920-h1080-p-k-no-nd-mv",
         "photographer": "Raja Ramakrishnan",
-        "subject": "Senteniel Rock",
+        "subject": "Sentinel Rock",
         "infoLink": "https://en.wikipedia.org/wiki/Sentinel_Rock",
         "description": "Sentinel Rock is a granitic peak in Yosemite National Park, California, United States. It towers over Yosemite Valley, opposite Yosemite Falls. Sentinel Rock lies 0.7 miles (1.1 km) northwest of Sentinel Dome."
       }
@@ -1926,7 +1926,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-4.824, 57.026]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxjVniDgpp8rginufpJfpTOGU_gc-hLZloisGFZEmgBP0cEJtVE1FRP4ju1RIgY5Ymm3MyNF2UE3s2T1Oxgii-0prjJy1Ir1ByHYziA96EU9-9tieGz=w1920-h1080-p-k-no-nd-mv",
@@ -1937,285 +1937,168 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywDvVtRc7brX2EvtRtfmaYdpZuuiPYj92aNSRgU1Okw0RIrn9sKynQjE_-eun2H9vVnrc_KhhBmAGly26eXlkoO24doAvD4jTNl2oqxEQ5JyI52b2Wf=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Kyle"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-0.084, 51.511]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyw4LrBcl6MvDmTvsWmXcx0ilvMQJnseebas3mVRfVe6i8mh3iJjGaYCcwkkmAy2QRoaf4WWdaB3YIsK_-j4mr15MzPcdFyisGEkKTqwjcSWupg7ZjiU=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Chris Sulawko"
+        "photographer": "Chris Sulawko",
+        "subject": "The Shard",
+        "description": "The Shard, also referred to as the Shard of Glass, Shard London Bridge and formerly London Bridge Tower, is a 95-story supertall skyscraper. Likely taken from the Sky Garden",
+        "infoLink": "https://en.wikipedia.org/wiki/The_Shard"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-159.644, 22.203]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxUY3L5FU2MBVXmQYhfb2LTk215fid-4UA3v-DGjZ0lA0FwIfz_gwsPjlgMHHm8btqHy4jGYVqrKbpQBdlt5JCK5qX6PbANpWFXqzT-8lAo_-XisD5o=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Selim Cinek"
+        "photographer": "Selim Cinek",
+        "subject": "Nā Pali Coast State Park",
+        "description": "Nā Pali Coast State Park is a 6,175-acre (2,499 ha) state park in the U.S. state of Hawaii, located in the center of the rugged 16 miles (26 km) along the northwest side of Kauaʻi, the oldest inhabited Hawaiian island. The Nā Pali coast itself extends southwest starting at Keʻe Beach extending all the way to Polihale State Park. The na pali (high cliffs) along the shoreline rise as much as 4,000 feet (1,200 m) above the Pacific Ocean. The state park was formed to protect the Kalalau Valley. The valley was the home to thousands of Hawaiians in ancient times. The first westerner to see the Nā Pali coast was Captain James Cook in 1778. The cliffs are very steep and unstable and have been extensively dissected by deep valleys. The sharp ridges that extend up to 4,000 feet (1,200 m) from the Pacific Ocean, host spectacular waterfalls. The pali, or cliffs, provide a unique, rugged beauty, and are a source of inspiration for artists and photographers. The Nā Pali Coast State Park was established in 1983 with just over 6,100 acres (25 km2) of land. The park was expanded to over 6,175 acres (25.02 km2) in 2009. The park is now a part of the Hawaii State Parks system.",
+        "infoLink": "https://en.wikipedia.org/wiki/N%C4%81_Pali_Coast_State_Park"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxNHZMaQftNqXHOMP04T__6UKknEjFUciycGlcgpKWVFG4p7xHElCxO_AeKAJzT7Rz0k97rwV7JfujfNzu4TCQbl0ptF_-3-feZeP879tw-N8GgxXHh=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Jon Vaver"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzirYubIxa_4lJw8HqBDw1rwWQ87fq228EfQzQE422-pViG-CB756Aepsfs_-uFUygdl-bjWyJsunsb0r7Db7ySiEAVbYrWDKQZfrFaG2LS0lmRTULF=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Matthias Scheidegger"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [169.117, -44.699]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyztj6Gi152pDvYvMU56TykPRDmK_m7UMnJqjzIhMEYl550ctb92eLbDsrPuHgv7-JNQn-PNDFeKB4c4wa9mOTolwyqJAHrvrnnUVLJjU1y_mbGxik=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Kunal Chawla"
+        "photographer": "Kunal Chawla",
+        "subject": "Lake Wānaka",
+        "description": "Lake Wānaka is located in the Otago region of New Zealand, at an altitude of 300 metres. Covering an area of 192 km² (74 sq mi), it is New Zealand's fourth largest lake, and estimated to be more than 300 m (980 ft) deep. Its name is Māori, a corruption of Oanaka ('The place of Anaka'), a local tribal chief. Wanaka is a town on the lake with which it shares its name. Lake Wānaka lies at the heart of the Otago Lakes in the lower South Island of New Zealand. The township is situated in a glacier carved basin on the shores of the lake and is the gateway to Mt Aspiring National Park. Lake Wānaka is a popular resort, and is much used in the summer for fishing, boating and swimming. The nearby mountains and fast-flowing rivers allow for adventure tourism year-round, with jetboating and skiing facilities located nearby. The lake is also the venue for the Challenge Wānaka Triathlon event, which is held annually in January.",
+        "infoLink": "https://en.wikipedia.org/wiki/Lake_W%C4%81naka"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyw4WGCitzRd52dsSpmUPi_T7nrNQUyJi9IYpnZeY9jPbg9n8SXLH5no-f1LXUshw2A-q7hnpl740vyfNZb1Oe6iay3RkHGI3C4XdU6AU_TZ-2GPI3DF=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Cliff Redeker"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-122.406, 47.68]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywmFaqq4vyQiVoSsl_s-dJY-QQQesB0o-A7YyNt5mjM5LtNQNlksIs2UHtNY2TjgWC_UfMnt0EGK9vaK1tf_i5p3ICjJ2TxZfqF6pX9oVRbTgCZhsU=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Chris McClanahan"
+        "photographer": "Chris McClanahan",
+        "subject": "Shilshole Bay",
+        "description": "Shilshole Bay is a bay in the northwest Seattle, Washington area. It is part of the larger Puget Sound region. The bay is home to the Shilshole Bay Marina, which is the largest marina in the Puget Sound area. The bay is also home to the Golden Gardens Park, which is a popular beach and park in the area.",
+        "infoLink": "https://en.wikipedia.org/wiki/Shilshole_Bay"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-111.413, 36.903]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyynkr0oiDPG0dZArfBeKwIcBd4bDDRDDyY_-SBzJBGl3uutM1C9CGncT2Qn5oDXOaRJefgFR3k17PAJrkPaRZOhNqmpM_30srFSN4GX0GDScZBY8hQ=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Arpana Hosabettu"
+        "photographer": "Arpana Hosabettu",
+        "subject": "Antelope Canyon",
+        "description": "Antelope Canyon is a slot canyon in the American Southwest. It is on Navajo land east of Page, Arizona. Antelope Canyon includes two separate, scenic slot canyon sections, referred to individually as Upper Antelope Canyon or The Crack; and Lower Antelope Canyon or The Corkscrew. The Navajo name for Upper Antelope Canyon is Tse' bighanilini, which means 'the place where water runs through rocks.' Lower Antelope Canyon is Hazdistazí (advertised as 'Hasdestwazi' by the Navajo Parks and Recreation Department), or 'spiral rock arches.' Both are located within the LeChee Chapter of the Navajo Nation.",
+        "infoLink": "https://en.wikipedia.org/wiki/Antelope_Canyon"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-122.499, 37.697]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyybOCh-3XxetBjh57Nfcc-Unx9EygVe3u_CnTUmd0LNE7DdiYP3h5Pq1N8wUO8wgoym-sIyWeYQaigDlIhtYKODvhRmClO9ZMGKoqtdZ_SCX9ajvlMs=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Max Braun"
+        "photographer": "Max Braun",
+        "subject": "Thornton State Beach, viewing south toward Montara Mountain",
+        "description": "Thornton State Beach is a protected beach in the state park system of California, USA, located in the city of Daly City. The park was established in 1955. The beach is a popular location for exploring tide pools and surf fishing. The 58-acre park was named for the first white settler of the area, Faxon D. Atherton. The park closes at sunset.",
+        "infoLink": "https://en.wikipedia.org/wiki/Thornton_State_Beach"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyy_YfS0PCpiD3KoksdVTd4Cni2ZLNsEBfe6-inqm934CXrq4xuzGSY2wzc-sKoYYEuQZbSHpTouM734MWyVvfJ75X2KTUnTGg06oSEhT5SRNP3LAc8=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Dániel Darvas"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [35.412, 29.558]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzHdXoJOk-PRL3gifnzzZf1-XgRNJJ8EGse3DYUdGyH3U9RqoqWbIxkNm0ux-53cE6sjkA30xBRDYK7urQEwxts7UnZeJvMuwUm_zoVIeK7zF-dhpA=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Megan Fu"
+        "photographer": "Megan Fu",
+        "subject": "Wadi Rum",
+        "description": "Wadi Rum is a protected area covering 720 square kilometers of dramatic desert wilderness in the south of Jordan. The area is known for its stunning sandstone mountains, natural arches, and rock formations. The area has been inhabited by many human cultures since prehistoric times, with many still living there today. The area is also known for its connection to T. E. Lawrence, who based his operations in Wadi Rum during the Arab Revolt of 1917–1918.",
+        "infoLink": "https://en.wikipedia.org/wiki/Wadi_Rum"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxoR7_OBi7Xc-t9wleMkbxM0PkD3NW6E9eU9NlT9IP_ggac0ugAt1XXiHq05jm-0-OLqxBzmIQxEo683iiPgt9mnQbJuyPvGk2VdbPSiDHG84IoKJ90=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Peter Norvig"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywOHYwJKeYXWaDMWiRskfALOf2uPerrjFTPcL5nxO3fDOAID9fTG7XmQ3ykPWQ27hDCAp0QMDl5UbXVPCPv5SjOFIvRis8z_Dl4KlIMPkkEAkkQFeZJ=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Conor O'Neill "
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywXQ_j4osK7g8ko2ujsvy6dCWe6NjGX1mks3YD0ZDJtefsy_CYU3MuO5WeP1cWVyg7lWcJXqZ_QnQCOjJNFolrKmq3pt96NtmrpAHHlDuahLv6b9yI=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Jeremy Emken"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyz8OsY61uc-l_wsm-Evp7_n2PpoW3x1yXKKZsHkXVGo_SKLSiO57_X1MqWtLBk62hVWvY_r8xfR-E3bWqWBYOwYtY-1badyYT8grBPu54umLCLirWh6=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Alberto Bertogli"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [8.418, 46.641]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywZF9y2LNdeODDtdEurargA27m0EEJAauAPfyFgKmWbaHKRT5s0Bo_pQHAXmq2S-F6VOErKEHktIc9TOV3gzYG-YFON2Zo6xwEntc9mwOxA5xmEV1E=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Anton Galitch"
+        "photographer": "Anton Galitch",
+        "subject": "Moonrise in the Appenzell Alps",
+        "description": "Amazing view of the full moon rising over the mountains. This was taken from a camping spot in the Appenzell Alps, Switzerland.",
+        "infoLink": "https://en.wikipedia.org/wiki/Appenzell_Alps"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-110.682, 43.874]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxWnMmywkLgNTSUZQi_KFQcXn8cjI2Vf5UgptSWqelyM0B8WNvWxlXIBbK2hFX8XHTBt20FTw08PekfxTO5AYV0OxqQtzDq5qmraNfuz3ve016F5XE=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Aleksandra Wysocka-Oler"
+        "photographer": "Aleksandra Wysocka-Oler",
+        "subject": "Mount Moran",
+        "description": "Mount Moran is a mountain in Grand Teton National Park of western Wyoming, USA. The mountain is named for Thomas Moran, an American western frontier landscape artist. Mount Moran dominates the northern section of the Teton Range rising 6,000 feet above Jackson Lake. Several active glaciers exist on the mountain with Skillet Glacier plainly visible on the monolithic east face. Like the nearby Middle Teton in the same range, Mount Moran's face is marked by a distinctive basalt intrusion known as the Black Dike.",
+        "infoLink": "https://en.wikipedia.org/wiki/Mount_Moran"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyy9KN5RGUgskY5R84DXL4aVZUjJQC7h-y5uwXb7JHwmZ3h9eNeyq_CZVMnO57Z1nkb-IaqyL4Yvq75fJG2jbbPJtejPWy-_Wj9CN-9uXz-akYSg8Oo=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Maricel Quesada Jara"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/proxy/npADGh_iE2zGUyr7pc-EINgmpGd5GqLE9Ngj4jLI8t57J9Zg8GQj0Zp_oWBy2GSU9WufJyjYqV3ZwmCpynX_mzE-SQaNMGNJv8gbGTCIcp5Od0ZQrZaNFogyL5dhOV4AhRquwFlOkj8uA86Y_gxabPIY3o7TAx1EnlBYK1KYPPpKxlGLpA9BeMDCue8LFE0aHw6wBdxXSH3LKRYjCGs05_fwOH0g8MrFHiZauCr3XlmaJNaxFehfLO-NZYeNSzfm18_zwZvlKxnOCv6TB1L68L41oQ=w1920-h1080-p-k-no-nd-mv",
-        "source": "https://www.gettyimages.com/detail/photo/the-group-of-beautiful-traditional-myanmar-umbrella-royalty-free-image/698041476"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/proxy/Oq6JtRFV2rEGze6rUjxXdjmyNuQp2EJCzix7ecVTLL99JBcwkqD5-E-SynOs_jLczauUqDvu4eHRCCT1I-KXpdd5RPh-wNiY2u0D3RQvJ2lZfm9fsDu_hCr0W3yxP2b7Hv_ML3cpnNWM2Qeh3D9UDqCJQgfaIFsq9eBceqIWl7i6msEnW_pruYXtWAv9xqWmpuyEUt3lZriAxneviUSX3Sj6wdaGG2gozK43MqLqew=s1280-w1920-h1080-fcrop64=1,000023d6fffffe04-k-no-nd-mv",
-        "source": "https://www.gettyimages.com/detail/photo/radio-telescope-royalty-free-image/856454798"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/proxy/aOT6ynrK3hDFbUhEaaY73e3pFm2JdSmCexYTxtSfYxpB_06zwbYUWYzUwku0yPYaXMAxaHh3nELZPdzeRB0--ND-GwDKd0ugnDgRA5CIhyFRW_vyODVk8H9Dp2BleYfZepRdBpJQHI01rcf-EnxsPPSGaw5TPdEz2PJ-wRMUhBGzQrG4mUoHFvctrIcHUPgKonTLzmgS_o4t1lX8qqObvvYOCfM9Pc3aBzBwa4_uhYE4jdapq4iZRiRntIki01DsgpF6VDgmwSrl=s1280-w1920-h1080-fcrop64=1,00003333ffffef6e-k-no-nd-mv",
-        "source": "https://www.gettyimages.com/detail/illustration/frosty-morning-in-the-village-royalty-free-illustration/471949925"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [139.811, 35.71]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/proxy/jKYxpPNQAF7V7p0QHb7g3us2BP0vY3sXdoQPj2R1COideMrl_mWWw7z2_ykHn3YCPYVNmqoITJXQ9z9RMQkZIVqVSfrCV2pWLVEf1qSiw9iW7pf1demP2k4e4WSDZe-nCeV1el_Xr7VO3HsG6BSy88Ze5kLr1JzLbgiXBRScyGBzTFLX6d_NPfPDNfQQNBdfRgpIW3NpHdWF0-4CQvFApTsUCGjX2QGQmGsxkz4AaFzG2lvft_MWa9zaEA=w1920-h1080-p-k-no-nd-mv",
-        "source": "https://www.gettyimages.com/detail/photo/tokyo-cityscape-and-mt-fuji-royalty-free-image/683243210"
+        "source": "https://www.gettyimages.com/detail/photo/tokyo-cityscape-and-mt-fuji-royalty-free-image/683243210",
+        "subject": "Tokyo",
+        "description": "Tokyo cityscape and Mt Fuji, likely taken from Tokyo Skytree.",
+        "infoLink": "https://en.wikipedia.org/wiki/Tokyo_Skytree"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-73.989, 40.746]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/proxy/LOUNUIJlgEaGnhruqzmnhK40uaFKvebv2uTp208y9bndE8KCvIKAPov8_1B_61XKQ85Yl_WINpg0_D4R4eVrU_WPQ7YxtuTvKFrvQBP7b_LVtXfBd2hZOfKAhRQHuf3yrtBpUBWm8FvdbdRnjuGk6GbHfVUbkpIDseZboOOW8NUlI36fRut5NgEFzTErpCMxDADwlB4cLO8tiDfDe0sjDmk2-cPUk9JDPFf9mXtGrCEKb-M-77rGwZGQ1g=w1920-h1080-p-k-no-nd-mv",
-        "source": "https://www.gettyimages.com/detail/photo/downtown-manhattan-at-night-royalty-free-image/638605060"
+        "source": "https://www.gettyimages.com/detail/photo/downtown-manhattan-at-night-royalty-free-image/638605060",
+        "subject": "Downtown Manhattan",
+        "description": "Lower Manhattan in the evening, at 1201 Broadway facing north.",
+        "infoLink": "https://en.wikipedia.org/wiki/Lower_Manhattan"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-0.12, 51.499]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/proxy/v2-hbg01yq6sJCsa6NGD8b04GNlUyudjcptMAp4inNsPIC1xqqFNgPVnSB2Rx6V9xTAFdZy6rMXkfh357xOCdWxyWem-eAdDjHAQjhr2dXl0-4MA5RSCOXUD9-Cjuf2czkZH_JJk4XPvgOJcQZ9yZfJt0wbir8ePI-k6yuJPmVphqz9TUtVaDxY6UBst13J_9MaM23VaxcQ110QkynEuL_2ypJuqC3xDpJ_U=s1280-w1920-h1080-fcrop64=1,0000028fffffc28e-k-no-nd-mv",
-        "source": "https://www.gettyimages.com/detail/photo/westminster-royalty-free-image/853177728"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/proxy/MmhYU5u4FBIBeuSNYZxUYBzA_3kwqoTZDIx4j0ufiGheGd-VGppcI4M-GnLg5HqzFfHR4ceMQDgR6n08HZNmFPGMOcHwhtc74TSDCPVhbBIgBHRlgpI9UHm1shXL8spx8oieon4OLp3sEHjZiozChXeadnrTc20pr9x85Ui2dGTT7F6sLS4ZHnR7JQeNQOiLPrunLL04SjfaaWmGOwTtAh9kVxOaQu1-qqnT=w1920-h1080-p-k-no-nd-mv"
+        "source": "https://www.gettyimages.com/detail/photo/westminster-royalty-free-image/853177728",
+        "subject": "Westminster",
+        "description": "A beautiful scenery of Westminster bridge, part of the Houses of Parliament and Big Ben, the long exposure allowed beautiful effect on clouds and Thames river surface",
+        "infoLink": "https://en.wikipedia.org/wiki/Westminster"
       }
     },
     {
@@ -2233,11 +2116,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [101.096, 16.902]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/proxy/iq7mdlY_tMbOl9bjhK7gson_6UoanrgQaGTDfF_3r9lr8QDzk9dZIV17kdzf8XQ_g4ZQwpWFujF42deENH5-X0cjfhliYnjwP7C9sfKpLDHZfUMmJl_XwJ-8NpG8jsoJHzm4VIlD93Ytco8GJ_eNyOKOkZZK2AF2KsHuqombTxpLsUofkuC9KmGE4iwtFNDL-kx2GAZiYaeSkZt7sz_jYySJnhJqRFi5n09ljfcAx7p3WXZvLVkchQp2F4JKDVVaRTWsJ7I0A-iuz82QRxEmBRIaXZ9b_tnYYdLePV4=w1920-h1080-p-k-no-nd-mv",
-        "source": "https://www.gettyimages.com/detail/photo/beautiful-waterfall-in-green-forest-in-jungle-at-royalty-free-image/523801512"
+        "source": "https://www.gettyimages.com/detail/photo/beautiful-waterfall-in-green-forest-in-jungle-at-royalty-free-image/523801512",
+        "subject": "Waterfall",
+        "description": "Beautiful waterfall in green forest in jungle at Phu Thap Boek mountain, Phetchabun, Thailand",
+        "infoLink": "https://en.wikipedia.org/wiki/Phu_Thap_Boek"
       }
     },
     {
@@ -2258,17 +2144,6 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/proxy/0E_iFC1b08-LHm7YuL29GYAwZVBkgtD9QGCcUNHMpewGj_c82ZOpNnMntc0mvCnLx4fSxs1gXHWzgRpM9_v4uwxp3n6Mf_AxSDyV5li_-oDjpHXCx7wVI0bY-MYGSTnc0RLQh0rseMRKOAoy_o62E3JOU8eymRX0Vfyo0DwpsvcQVUzdM17EZnko2TXQASqSodT-yYzSaY5TAlRNTsEXajTcfTU6elNDUjKZcys4wytZLOwQhSPuZPhnUsQzbT15bik=w1920-h1080-p-k-no-nd-mv",
-        "source": "https://www.gettyimages.com/detail/photo/abstract-colorful-paper-background-royalty-free-image/665574478"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
         "coordinates": [-122.366, 37.808]
       },
       "properties": {
@@ -2283,11 +2158,13 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [77.32, 28.57]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/proxy/_f0p3cHGaw4xX5Ukj6qErJCJmV22brUjn9OngbbjLyibsAsglPrKTDHh7UiPnQyqIKFoTCQcAKzmckA9iFhq37YuhPi-riCSE1J2113worcuruToFysqyQWyLKTX13sbNpEa8-eQCEc1Ptffvg-AEaYA-zhnhQ0LzNAQ6bNrp9Gj9hoNObJZvGcVnAfsM15svevrJMnn2vNueR6eAd6a_2cdjIS9EzePv0T6wtSmqw=w1920-h1080-p-k-no-nd-mv",
-        "source": "https://www.gettyimages.com/detail/photo/spring-blossoms-royalty-free-image/911596652"
+        "source": "https://www.gettyimages.com/detail/photo/spring-blossoms-royalty-free-image/911596652",
+        "subject": "Dahlia",
+        "description": "Collection of colorful spring flowers"
       }
     },
     {
