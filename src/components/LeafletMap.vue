@@ -12,7 +12,7 @@ import placeData from '../assets/photos.json'
 import { onMounted } from 'vue'
 import { map, tileLayer, latLng, marker, icon, geoJSON, latLngBounds } from 'leaflet'
 
-import type { GeoJsonObject, Feature, Geometry } from 'geojson'
+import type { GeoJsonObject, Feature, Geometry, Point } from 'geojson'
 import type { LocationEvent, ErrorEvent, Layer } from 'leaflet'
 
 onMounted(() => {
@@ -47,7 +47,10 @@ onMounted(() => {
 
   const places = geoJSON(placeData as GeoJsonObject, {
     onEachFeature: onEachFeature,
-    pointToLayer: (feature, latlng) => marker(latlng, { icon: theIcon })
+    pointToLayer: (feature, latlng) => marker(latlng, { icon: theIcon }),
+    filter: (feature) =>
+      (feature.geometry as Point).coordinates[0] !== 0 &&
+      (feature.geometry as Point).coordinates[1] !== 0
   })
 
   const onLocationError = (e: ErrorEvent) => {
