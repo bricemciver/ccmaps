@@ -568,6 +568,1918 @@
         "infoLink": "https://en.wikipedia.org/wiki/Big_Ben",
         "description": "Big Ben is the nickname for the Great Bell of the Great Clock of Westminster at the north end of the Palace of Westminster in London, England, and is usually extended to refer to both the clock and the clock tower. The official name of the tower in which Big Ben is located was originally the Clock Tower, but it was renamed Elizabeth Tower in 2012 to mark the Diamond Jubilee of Elizabeth II."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxIyVa1hWRjnDkzQvnrVavP8IyEwJr1Eoze8PBazpc2E6GyTi2O25F4Wr1C5hUvHtN6kfBWr8JiJWIn7YhXbpalyhfCEqH-LH8Y1_RBpgDuD_y07GI=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jeremy Emken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxZCa6626kf-tC3ZKPz2SfDMKrVM7tanloEUOaX2EuRu9_u7zLi-kGx68cDKxFpSn5ixeVU2v3V2WHk3atvQcZDm3NtIzs6Uf5y3T97tRXY7Mph-ho=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Heena Mukhi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyuX7AyE4kgmQn5IeX_rwKe_4oJeN-CiWvZxP_LwZlXG7wr85a5dpZhgf4kJUbGfOwqV1vvvklti_ZssLmUXgiwlLSgnlfgA0aPadPNSnOEvSbUCg=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Canoee Liu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyw9xLFxbtB69i6zYvs1xPE3G-2lGyxwBSZIQU3xwPhURBVEw9uUdLcmqIauhAecw7-RNt0vdTHSHbZfmDOrBHQ8i4Gxq-ne3BM8cbx0Wot70ZD9VHY3=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Amit Kotwal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywcamMoujf6LmH5H-oCY2ZvFsbd4nO2o3GLWqugYFXqiYoxkIuhaX8gS-mGZnzzE7SNY53w_3afcsJCNzYju0PFo3f5Mu6jWPS4DoJwGpuU_a-XQPcb=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kerwell Liao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyy2GTbUIdk_ZWfGthRx0r8B2sLoAXmseXyd-Fpsv_4rnMhlIYLaW1d0zFlsIsfGjsoWsixx3jARM0kxQQ4aUNzv8inocN95hXuE30nLOl2zx1IkdCMy=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Michael Fang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzOylRmd4tHLG_IU_F29i4KKQqeRyJdB6V4yzxjQSgIsmaPDuv44eUGs8RlZrhzEj1ft_HD7ps0w4hvrpfcg_BN7h2gGh1kCmbMkuaAfrG8BC-kqvo=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Su Khaw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxoR7_OBi7Xc-t9wleMkbxM0PkD3NW6E9eU9NlT9IP_ggac0ugAt1XXiHq05jm-0-OLqxBzmIQxEo683iiPgt9mnQbJuyPvGk2VdbPSiDHG84IoKJ90=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Peter Norvig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywzifOdmTRnoylWSdwodVo9IgRKb96yH1BO5E8_-IpZoRAbn9Ynm2uGNbprho3VExIJJdDMVizvtwr1Xq8WDg6D4iQQ3qH_jxkcgHG24ral2a0xl51u=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Siddhartha Saha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyw7oYqyncOYJ9XRGdPkBaEB42fKzH465Kr5XFsTHZDzgL962l1PvUXnSYqnzT2c4p9TxUPzmvveIp6t_C2yHvzoXi56zCrgjeXK5MVCUrJz_ieAUj9F=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Sriram Murali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxjVniDgpp8rginufpJfpTOGU_gc-hLZloisGFZEmgBP0cEJtVE1FRP4ju1RIgY5Ymm3MyNF2UE3s2T1Oxgii-0prjJy1Ir1ByHYziA96EU9-9tieGz=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Brian Kravitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzpqZY8olxnqBjvEV96GxmYn0AzXFc6U2F25gujcvxC2oXQRgYQDqpa90YTPZ4j2oo25ArcygGc4sIRnXo0Q-YpW3DG2BUvnW6rbVOwtkzSNKlp8UcI=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Sridatta Chegu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywe0zQ8uhjIgXD7OAU8y30cdLAI2W2yqXJg9mk0n9WrAJ_jVi4SPul5A7t-YZOUxxDOEqH0RjDmJ619WTJUnz9PzmNUK_jlaKLyzuQE_kq1ZKFLuyUO=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Siddhartha Saha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzirYubIxa_4lJw8HqBDw1rwWQ87fq228EfQzQE422-pViG-CB756Aepsfs_-uFUygdl-bjWyJsunsb0r7Db7ySiEAVbYrWDKQZfrFaG2LS0lmRTULF=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Matthias Scheidegger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxWCNoLnVIV3qoRb4zipvJt1Cc4ZU1o9anDkRwKSh8_j5Gxubd1f-IbJIrr4C8pQTryqWR83K3G9qTBWt5DN9Js_wIKysRt5kyMb5qc5d7D1G8QB-EV=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Tzvika Stein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyXVmS_yZaGqssFZOsasa_8tV4KfjbSr-FlCogatsxJRlcUfVtxhTgWoEOSUpnotv3JXOA26edeJQ7bi0LJp1YQzi6wjiGxXkQjeEG4u7LU_QVEfxcG=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Michael Himawan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyzzrk1Zqqw9sOHDNifCABdpYVZaN0yUCQ8HXzIAmgLYuiLLsCb8To2lvamqBtk9oLokZ0rRbeoTtj-zWbJCIH4Qnx4tmsNWLMMTYeA0qA2L5byaCbw=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Chris Sulawko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywv-5d-IBy_4bsyq7UvWayJ--Hdo5lM03Z2ZLqcBshW3grXqKcF9hoCoirLJdeRrIYTH-_zd1u04uoBtkq8LCRSACPw90f8VYC_BiZuWBGCh2uutSwW=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Peter Norvig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyqabAXJcQx-DVCQ8q7FKtBG2ZxtAAeM3xxb6P9C3XmT8N--Ycdj5ugOUIHu0J76TvvqW5XO40FsPn60JI2TKS3Z94AxRX3MHAaHstBnlAVKEmf-fM=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Raghav Gupta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyygYvupx4O3Q_WfosINHnGWzm-ASbsbjVUBAEmwHDmV087xZvVOm1_BUqVP9r6sK2s863319XpJCFWLZTECo2xooVLgbwNX859oOFnJuwSQX2jj76Zn=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kim Paterson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywA6xNh3S_GC5NK1VZeoEbRiNkm8tYBPUJFWJmuhpwPHghbT7-CrFisBVBIgVmCo_92BjAtiybB9CD0f1fo_pT3gu2MYUrO878UpwoKsXRooNAjwGUh=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Brian Kravitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzHyLqobMkOB7PXSQD66jC7FMQZ2E3U_IHzYNKBvwTc9sEJQdCQ6Emajb4vA4rjGIydalusnOlUmjZKP5izpZyMHx_mf5BApAe6eb6QkHXf3aFstd0=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kamal Singh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywVI2wyJjmun4ZxwJ2FWcTkv1gVfwpQBqhSZxOUHPme8cfdQwfVtcZWXfFLMee12VBHimcAjMAwFEXRqWMJVc0Q0C5xqTpBt-1EEk8JETZYBcbCLS0=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jeremy Emken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywHJZJaR5yQwQPoMgjjsWnR0WmfN_7eu6CJ9wtntBC8Uk4s0LhMR5cthz6X4JhReHDVKfvImceEg1A1eG418ZN6HbYfzFmsSZg53e4k5coL-4c4aY__=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Brandon Surmanski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxjitG9AqursMe0Z3Euo9BotVlQ14IKuZxmvt5bSMAW5GzFC0t8bIxk-TYHgD2fNn_HUNdchq6QvtNy1YMYJAu6fFSCouvZZX1r-pBsp6Aknjagod2R=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Cliff Redeker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyPJV20RQZBxIpcX65wnqlaHniTVRnnudCbVgOt-Lm-0k4lGe9cSWX1tRlfiTyAcFbA36PqjfJzy6u1xkaMFqCCvhY_eLH-NxAUzlstQeTeU6Dj5uC9=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Enxun Wei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywIROZsPs8Ka6NRyQwhCIwBLChf9_EW_Q6wSWUnt_6OKN7QoGtkhCT0aotpZ6p4LavoYH8uTjPbU0ytnmj4vTyn1w62gUE0sZ9XhBZflZf-FTRIFRE=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Tomasz Zakrzewski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxmXqLq50QWwFGbH13a4nFgm-B6b4RmwIyWHB0tCBJtXjAXh5sKVpJbHI_y8FTCu0MGufbFzRwFbiiNQWJbx2dzoijTq1x7v49LDRNGwBKpdxLu8WMc=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jeremy Selier"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxQBvch55ikmSbHq7nQMv3I9vf7qJfcR9rvGlPD9L-jxFnRiu5rDX1g7x_50uSZPdfpvFL41YAQb87k3Sx75pZpj285grJz-rJqnAsXuXSrtG4KRPQ=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Carlos Reyes"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyOErBTCL7lpRXeoVepaeUoT3fjs09qTwnuVckXwMeSxtTN5z5V-rNqRbJo4ToFVdnF8QBC79m4rPdg_kAvC9XnpgyQKV5pcOUgvZnL_a3jJKhiB4Sh=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kevin Allekotte"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzDPwcvJ911v5xksIrLEuYGTfa2F2cMUFURSoo-cuvV1JsPQrvfAFLqfgJH0wCV66TQBP_MTNoA4FE74AEi5fFPnQnWO92ogFVRjXQX3MZb1f2F_A=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Tao Bai"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywTsCuInt-WcIkgJlU9X1CjfG82ZeXc4HgZyZ82Selc4XEQkjGKaDaWQMBJd65LY8wtfofc4-TFFvWJfnoliYxn-PgeOCxJ80q5ODfoxKuO9YtS29xo=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Chris Sulawko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzrUPIXZQzQssmNaf8RKU4FqlWcuXYZZpaMAKD0yEWrizfch_R1Zll9RtVkYjgUc2P1Xiii1ABIelelTF0Q5R24CKJJ5y-f_k9tsQmBswN6OA20_Rs=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Baron Reznik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyy1ifRV-7HRukZ2FKtlCV2kofIcif3o09Wb8wbjARGmrHqMb7EqGY5zyfNFK3pGAIDDR3USrdNhSCXuNATH7Bhsfz8YfrzuAIaXVlhe4SwJ_PJTXJ8m=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Aravind Krishnaswamy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywuLuG2vmB9JZKlXmLP1S-YVskx0gtMJxML97FpjoiPlP0we-1GybNzBiaG-i1C2SzlhFMk9ksuAMR0L9MrUHn0-j1QLGd-VjgAXbGLK4qFTPr1Kt4=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Baron Reznik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyVTMjlNYYW_qJo6YdGc-1UmPbsmklMLzu-U43E10kyn6yNHLX_GEiwabCMP2p6PDHyxs9vwRFrK0qrSJHGOdsqZ7Qwo0BBy159zf-246dsDM1kKDik=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Peter Norvig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxomf6D9kzWRfD0J_S1D_VUbsIuPkzbt57UJcD9uChfaMEjWA1XRu5KVMYDeQ1QALzX3PlhELp1rGjCFIc2-H4hvkquVOka4MX3hxy2chnA4JyyH86I=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kamal Aboul-Hosn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyw17q5geBiVZdPDYe4t_0cVb16DPAGiKvSofWeObhwaMDkPxU_Hh6x7ouN7rx9Liqk5hzFVrcpRAeBskGjGgn_oa4MN6t32xkBkcqp5I_QznBGQKW8=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Wojtek Rygielski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyysAc8zFgu7Z27IXIPp6z11UruMMQFS6T1VCDqKi7VaFSubD9Z8TZUMjEUjZRd2sZsgFeh3CXfc7xcq0cuSU8aY0B3eU8EVys36i1Tz-iUtcSaW5LIy=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Robbie Shade"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywxFg94wqYVjc9fC8X_fD4V1JuIqOBDu-4BgHzCWeZ2CYjO7tjncbzIF3ZF-vv3PdAhvNbCTG22cGJVA1CkzNoYChP0zyw1rMhpPCyBJ55um61UieUk=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kim Paterson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxiushEcQ409n3UHAy5Ua-pp7nyUHDunptWtwHR85bc4hgFFmtFQjwdWgIG52NQPRNrwsoRXJlznH57WLV3iakuUwPPk6CmcnFE63k2oUXjfak6arAr=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Conor O'Neill "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyytHw1I2XA9CE85GeKQLp8PvWo37mepgmbBPTzIIITml9_VvNIJUIbOyksTXDlXcxUsOCQAhcxam34v9pODLH-Gbe23z1SzaaKRMK7w6lnxKMQ6rXGj=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Chris McClanahan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxU0-TfQW8CXRhRZsqLlnophIGg_uLkyc14UNavk68PijY6JBZMQYzAYKUn2pY2H_j9HIhMsAKnKptYV8MXbuw7DjKMgQXn_tQVGl-322QsdYWF6DE=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Alberto Bertogli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyx5wh1qgpdVFEsJJTXVDxAq57vmY8Km8P5gskq--fyhflOSq4gqzeke57r_KqaPXsIXKNKORw1qgQ8YUVWBfXH7Sq-Da1M-9Fch-j_D6Yjps-d43TgB=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Oleg Ace"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxA3qrnfwNAmNWnp3YYQ3ED9Ln_CbALkghVTvtvcSBeHpRu1h7A0ZTo7iDLCAXB6IzR3byjTv8UescAwynKPo4cAQ-PPmQE4MoCxFOwO3guHhSCStw=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Chris McClanahan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzRIpi7mZ-GJ-Zdfq2ZZWrTJ5d2iX1dqSv5Ffz30AYsPm7nube2VOlpCYTpG7Qqt86MiT5E7VoCl_jen9VFToZarl0e3ni87fMZeuQL4GJ8xOkXYAEm=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Tim Jordan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywyeh5waKbTaFin-AwOrifVjE9kCAzA6tsXAIBzwFRRH3NGR-IV3U1UcCIQ5FEfs0FMZ6mMBQS5rTSz0aCuhWVxOMPE8l1Yh5bgFdIZd4mxfgJ9Z6Wv=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Aravind Krishnaswamy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzJt19coSFdZW8t7OoHsWJaJCeJAXR_GjERZVcEJ2Rr8mArtqhCp4BtP22NtMr_zZ1HYTWstGWt91c6RrD1AAJ_vijy38QdRu01oh9TDpjBA4eHypg=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Asif Islam"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyqaN--izX3h4yYaKbdCYp3xYMDiiBl4CnJZUcZval2vTJi9I0P45ywEIpZAI9-i3iGTVPREoxN9JBmJxrCjT15R7QIwnd7F8268_7GeSF-kQvBK1v8=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Norris Boyd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyy9KN5RGUgskY5R84DXL4aVZUjJQC7h-y5uwXb7JHwmZ3h9eNeyq_CZVMnO57Z1nkb-IaqyL4Yvq75fJG2jbbPJtejPWy-_Wj9CN-9uXz-akYSg8Oo=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Maricel Quesada Jara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyJWIqwmcDmO2FSpQI45EEhOgL9cBSJGJNlU-C6B480vwlgiAqQ_PWvR2FmcR52TV_n6idAA2x2zUHRhFSkh_GwATXOvC2Ib4HFlLQGlxxQkgRH60ni=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Michael Fang"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyohd6HPm9YTDEWMZXlr4q1DmKR4itZmrA4EUZ6dITRrURK5yWzqmYye7VRSZLw0psUEwR6tvqBtSP3Z0iNnGfOnBg96FSR3gJzeMobD2snnCh0reU=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Scott Rudkin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyz3fVWoe3q8Jr37LNGpvbVaAGQW6MbGKyRhvtgmHjqHF0mqrBWek19qIuf-qnc9JKzNE5gk4W0Xwlv68YkpEN-pWjLVfxFkmqX3UKzcygBrwTFjz7Xi=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Sudhakar Chandra"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyIt-hiIc_LpPW1QOCLvVPg5RlQdFm3YDNVBVT3Ub8IdA7epPvahTdBwB_pKuPwSMgbtLELkbaxLynKJZTG3tOmkBpeZ2-r7x0G9jVarM5K4E1X5LWB=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Paul Oeschger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywa7r0kmBpOwaEdUzyvbS4ysFqq5YiMn7K9397KJQxkxh6GKD6j0jc7YT5Wpf4-N1wI70Ww0N8xwqEqJG_rAHi2eV1kNShONDA5PH-W8zqmjZSGYRVZ=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Sven Tiffe"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzUHycQGs_57MMCr_6Q1uNVcmVRLzRVjHXnN1eou9wIlrwJ8z6kYUgAxqGyIgHOGLjE-lEnGBSSVq4bJ5fCbaucDUlUKJNLHcgulB1jzRsBVwwiqzs=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Wojtek Rygielski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyw0LH5GAismh9l_WGMOQqiQJ5Wnenugm1jDU3ItHvKVpOcJwZ5T1X62lUmc1KpqX-_ozAFvA006Ar5yuYLerXr_bLlAxNfHKyxj5DVtKSauXw2etWhV=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Siddhartha Saha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyz5HZtqS3P7sJp4k0a0_NexDsEjaNhRFBuXnIeKbU3TPVMOXn6ugTdtK93WQnOhsjMHfytVgf_A492W4-ZGNy-K2U6znaLnbcZiLhvKPmv06xR-s-XU=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Aravind Krishnaswamy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywQZ7y7lqMpJTorMVbN6pfP1RT7rfaLxvxrNdnvsO0YxvVzPNBWEsQW1H_SufIDCpE5hfWtSie7wA0vqqjxPFjfMpVRZP4UhupSS2Ol1prY6dSM2yc=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Baron Reznik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywfvbt3QbvxOawu5Awaa1y5PtfkrUlSx733esrcrvaPvHH6-Uwa7h8wtzkAB2MnMcl5U2ezPZgvhPIKjW1VHE0nbHkoR-vm6NezuZ9F5UCmr1W6_bOV=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Sami Kizilbash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzG5lPx_B_kTNDGdncVFc77eeKC4CIio-lHmTbqcoDCbPH5a_Oyaqb7x2mY3sEE0mgdVNfH1o_lrWs8crgNNS-vSaERmSmy4ChjK2p7VfiAEBSRCEl7=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Sharon Chen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyywCPvIhYweMkmXYZunNUDq1jY_7x1mFlPCZ24jwvHeV--IWd-bfIx27TtV_EfAoGSXc8wQs-o8VYg907MofRtpswDrHLSZhfCjS_y0JYtLjTCCCzEr=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Matthias Scheidegger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyws-YgG5CZMJ1ZLdQvyOi-z6wwV6yksExXh0j0VxYiLPcuG9j19qy2WiEu-oaF_KMOciNOFXDP7rg4lacRtpEwhipJDz2x5SpQP799ILgi8RopTF_R-=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Teresa Qin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyArDF5yqggyuQqMZMGWiDpgukzyXYFeSCAQg5I0EcdApcYc6ZDEjqic3YucbCPOy51aBJcqnX07P1MfhMJpoBC9eqorwt2Ll5Ilgn73DXatTx01gRs=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Peter Norvig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyynhSBuvZgJVy7w4Dw15PG5c0WGUHjEluZjIQmnStkLb6pi_ahqUsei2-eRO5NKlK2HxymYo-XyNW2U_-9U2Aqs4ncOPfwu_b81M9czZBTkfwW76nNp=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Enxun Wei"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxHgsmpvy-y76BzQ_l9zFpz-mwDEFDITzcKQ5NB8jLb_I6BhrE1iDJVHy3i3caIKpiF9liM5hIFMvxvXJfBJOeX41r7JY5CCmtNYyOXywlF0QMoKi4=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "John Posavatz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyWTfBWhkRit5ZkBN_WE099rLR-9LBnvlgFwbgcAXwr_dup_zqHhWaQqJeLEqN4ipCfPsUWCKI0LGxd95sYi1-lPkhXRDh9VjSehbOnVcRVQBnRmC74=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jegor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzFq_-5kFD8rI7pGJbpFJS432qP17YkojPQ1RcVgJZEUZr2_E81dh6SeQ7UF4RWVjlsTEQwxX5UBJHE3Irh9IuMW-832LwM4qjLlBSMu5B_bRYDkHc=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Wojtek Rygielski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyx28fUbOrEVdh7SREPArNvQi6WH1Mzi25TE9xSAIcvi8yjK-11dteD2VPrvL2MJTnbeRxmojmWU131jd83rtEVIGQ57ZCn64eLGm-7ZjPVRizR0FPRd=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Norris Boyd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyycTT3eM5m2Nd4UmFa1HVk02teve6hWkpX4No_AEXdRxEqRRpwaNRKuFN4PuIuCCzDfeNOAfSeBKc0GWu3g3DAtvJXK1i5zlvDdkNk6PHAR0wcdO0vq=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Brandon Surmanski"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxSKAYDDWf-0RXNOENodu0P0x6cBTpigyZ8MPKIHnvMoK9QgGomWJl5tsObXPy3j4hpDMwOybYKUfHd2Eo_By9EeWc1xpFln0aJgjoLBP3rTW-JzjIZ=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jake Newman"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzKv2l0XgTvyDWqDbKRUt-cdgIBxvVacelmP53QgngAzoSwXFDEEgnUe2oBd1qL9GfVQ1sSqdvX_52O8R6ftqDeBfhnIHSrG0lRaEyBuI8sMfAzHX5d=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Mark Striebeck"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzBgDGRVJQCtotjMxp5C1x3oKQNtcWecY4O1-gmqnEsnbB-Mj-_eIMNgC0ib4gMs5tuVzKRkX5xbzmxZkJ8mEjUJXNmg3FIdrSEQ4xRmyjFjVKqs_Vx=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Harpreet S Grewal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzWzKus13MfKSon87IE0lTU0qxQIoUrfN5IF_63wKxTyLegawkqRCocF1nrPa1r56P4I5UzEw-GRbDDB9vrARhPr8BXY6Ja9u5ihZnnbcYjCQJoK5S0=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Luigi Semenzato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyZ17_HgjJ9P_woxTLhUM8QujwW48zS3U_lFDH3oZZ2BBrCmggB3G7D3u_cuq3hSrD4QdpS9MLMJOuYPDV2qAsDgqxZC_FjnmIXIT3FgjOePG2vn4U=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Carolyn Chou"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzXo8m8MYT3frZYgjgrIvsIMsIQFiPmLMAvm9xmeW70azzxh4eFwiVMBtsZ2u7BQ3vYUdAcFrhwpcXYatsEKLuCqsq4Aq7GTJ43YhUEotcmlN9Up9M=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Bill Luan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywMxkd7j9ZOZOCa6vX7aYqLJ6-w8hhRC66n9t5rYbmUpLvLlAnBT6iCiufw4tM-kLe4ExtQSPCqjSRzp5sFJ3jtxdjMxEZKS9He18Jp0xzeiBdbgdLT=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Matthias Scheidegger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxNHZMaQftNqXHOMP04T__6UKknEjFUciycGlcgpKWVFG4p7xHElCxO_AeKAJzT7Rz0k97rwV7JfujfNzu4TCQbl0ptF_-3-feZeP879tw-N8GgxXHh=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jon Vaver"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxMg8gqRRphN1NZjEzJz4KPVH0iZmkkf2nXwZGv0uAUb1Si5T-wAqyMyN7DmciHBgnfvI5UvCppmv21KIfNdQwxljimrpWBWKBpJqN_QLNUvZi7C1w=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jon Del Secco"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywx9C4BT1Ij7qfikazmxlKpD3dEPeI1__O6cO1Ej4E2DQ3eZLFEnoUJoscaUo-pzt90eVA4lrdyeDziy3UycY1DZvrN66l-EAOPvbVrk2Y0b3XVaMA=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Aleck Wu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzMLSl8a8x_NVrheYYpCvA8SrdpqrQnsmfz30YgGhfi7CvDXRi_Pp2qIgJ7bxyM_4b2aIIqwDTNftEDrYWfoBIhQflJd9xUpMZpAUoVmeZHham4pjOM=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Raja Ramakrishnan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzXLl5MMA71oRab1q-NXqgvu0k4vBKfzu6w6jRKSA6ULGngOmkQY2SuPFjdg29rktm2pvp05bOzVGM9OUABvSkSPWSaCVyALx-96AlD6XG_EvmVRPxH=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Eduard Matúš"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzRIpi7mZ-GJ-Zdfq2ZZWrTJ5d2iX1dqSv5Ffz30AYsPm7nube2VOlpCYTpG7Qqt86MiT5E7VoCl_jen9VFToZarl0e3ni87fMZeuQL4GJ8xOkXYAEm=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Tim Jordan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyygYvupx4O3Q_WfosINHnGWzm-ASbsbjVUBAEmwHDmV087xZvVOm1_BUqVP9r6sK2s863319XpJCFWLZTECo2xooVLgbwNX859oOFnJuwSQX2jj76Zn=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kim Paterson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywDvVtRc7brX2EvtRtfmaYdpZuuiPYj92aNSRgU1Okw0RIrn9sKynQjE_-eun2H9vVnrc_KhhBmAGly26eXlkoO24doAvD4jTNl2oqxEQ5JyI52b2Wf=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kyle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxUPIHMXm6Obl6tWRplYoeOF0LCMwwo1wxDXWKgyaNczsiBTu161ZF2pXxoUqOqJv7O5DSkXX1AzF_LlvW2wxDw3Fz9Q5r9cp19cTJCFqXVg3PIegOm=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Sami Kizilbash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywk8RS3CLAPblL9owWzFujeQMBGg3xPUbZPzlaVdkB9YZ_N7xjX7MHpYae7_lXbVI7t2Cx8VCzgAbhNZxqbYYzn3obcnh7Tk9b2j2t7wIIhfBFemAM=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Aleksandra Wysocka-Oler"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyz_tf2E_WJ3I-HVKSRxW1aU6uG4I_hKMdZ0Cc8Vo6dkBCxJFbXHgKXubrGsv13DEkQQsDI6MSkJ-FVqijS76pF56ChQbhsv7uiG-Y4bTAYirBrSNd8=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Bill Luan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxbMylh6suDsxuImNelE48X4aL65cOOPGH75onMsJTn4Clp3BfSlag9cFBwmUxGRLre-s2cyYkSf8ktotwQaTO-AX80F47KYkTy39ycW955Ls1s-Vbj=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Aravind Ravisankar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxVgkbbedz30mEyKD6hKzlzwRr6srNsZ6BbEh9Ab4pD-IgibfgdSg8Poa4VD06FfxpBr_s7NsjpHNxFa8yyOfjrEKto6ubPyZxf4Q_7rXajnHecksk=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Pankaj Joshi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywyeh5waKbTaFin-AwOrifVjE9kCAzA6tsXAIBzwFRRH3NGR-IV3U1UcCIQ5FEfs0FMZ6mMBQS5rTSz0aCuhWVxOMPE8l1Yh5bgFdIZd4mxfgJ9Z6Wv=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Aravind Krishnaswamy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywYHL0BVKpXQa_63eXDSWRhfK9RPkP6PZ9uRIvOsyikP05dET7o1OvqoJNjmdrb_tpkmItMOn6a87AU01xmbS6zVh6Tr0q-lJOmcL4sILtmVQCP65Q=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Su Khaw"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzVEdjw21Soq5Z6OSJWbWk12LGhQrmjgP1npZeBE3XjdyqQQzDinHwrS3MiCQ8q8sYdNxIzx5_L8wZnghmEsbYbURFPCWBOyQg2trS4BWJYdt-1lHiN=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Brian Kravitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyz5HJQuNd2RnztC9CVt-bAMZQmTAeewq99ZeImNcloS5Oy6GDzRJ08rwPs17-ilXj65cr0zKnnzsulknCkRPAQTn9uDyCJK8V-omJGsAKkHT6OE_3Iw=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Raja Ramakrishnan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyT89hqF9k9uIrt1u_yhgIZ-lBJlV1Gb1Z7yZlPbOHfMRsMBjZlUBky95OKhyL7K8hBiA5bCT-BxzzKKBALlsHgVicYwhHAjJyLaoDl5y_97sU3y1J5=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Aravind Krishnaswamy"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywsFVFJRHVVGbM9G14RKwTF4pBKDWz5S23U23NoMOEPSzAKDnDU5kXgb1C3qiHejGP6nMAHNhyHVEr0aqOCWkFrr2SWJo5WYQj3N38GKjCeUtu1m3n8=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Sophie Bi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyweyP8YxfW0iXrRmLHPT187Beq_VSuHsJNnSbR6GUb_XkdAcsj5GNiqIZFvQMBKw3zUcUB0-BmrNQmuv4dLXDXH5HtyWyjog0gACGVNhCJ1vnf3EfA=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jerome Stanislaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxHIVYud9_BH5gBL-CBloD6hTlfumzhqXP1OlQEu30kM1xW3rkpLlXV3T3XBJTFyNrWwGgFPa2Zg7Cw_h36NUHcGTVGdL2887EchsHywVor7KoQng=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Marcin Zając"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywfvbt3QbvxOawu5Awaa1y5PtfkrUlSx733esrcrvaPvHH6-Uwa7h8wtzkAB2MnMcl5U2ezPZgvhPIKjW1VHE0nbHkoR-vm6NezuZ9F5UCmr1W6_bOV=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Sami Kizilbash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywHUDYk2KE6OhqzC0Hp5ZYNH879RSc-nO_GJlAStyHAgx7rHdfzdeb9QgXCCCVCdGF1-41b-4TPWu8naBPIB707UZjnK2Fx3Cop4Baq1zeWyYj4aUyU=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Don Fleming"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzEFK4QOilED8WLqjBm5I0BjPjUtW2rxFuq-bTo_t2lolFBHSwpEVli0x7SXFBGI9bfLv4fKAdUghI6xYZrmO4YqCQ--yRIFP7iQjfuk-P0TKLynbU=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Matthew Garrison"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyztj6Gi152pDvYvMU56TykPRDmK_m7UMnJqjzIhMEYl550ctb92eLbDsrPuHgv7-JNQn-PNDFeKB4c4wa9mOTolwyqJAHrvrnnUVLJjU1y_mbGxik=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kunal Chawla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywNv4Cpl6Z17kPySF2_2ItMdoGkWNFRCFqN4TpZPtkGbjiH1Lw8YFOURYdIDm89bzxgf1wRcgNRNCmZLsv_OvIRJniUhSylSn4_i22tb4f0SIyH7tah=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Harpreet S Grewal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywqCZb7FlBn_Vk0aoPZyyH2NGD4QxASvzfv8sl76otFIZx6q5kcrp1ZvykvE1WZO6SkETRGaeU988xuZ6QaanbqnjdadibhbBdItynAT4u5weCIOM0R=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Bill Luan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyz9TaDKYn5DcnQqw4LHCnfLFrbiXep87J1fo6iOomUR87gaoJ8WdlVT4cRgBON2VVnQcl9t8iQa_NaNMeYIqr19KqlODKHwMYuOCWlPgc5UsIbCBVNB=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Selim Cinek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxIPJ3HKhyTTMbiVbk_p3-69s8DZbKzP2k2QecYpAFJYQnyU0-XUJ5oVMmVOHoa6sn7SEIciB3btJwn1IdC-risNeziaBPuQAr9Wj5FxR6OTalAYpWg=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Eduard Matúš"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzl1hiQ0XlGc5oo_6sYFmMKs2YVsw8qbl2mxmJjRY6ztioNOsHgfXQqTFNtNYa_S2mXAAPzNxyoH0AxozpnNQIF4H0bPVNwKe3ZCQlyN4emB3oHoqvG=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Adrian Velicu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyws-YgG5CZMJ1ZLdQvyOi-z6wwV6yksExXh0j0VxYiLPcuG9j19qy2WiEu-oaF_KMOciNOFXDP7rg4lacRtpEwhipJDz2x5SpQP799ILgi8RopTF_R-=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Teresa Qin"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywIdYOekF-VGCRQu5LUZZbxkdDRNGAICUgHfVYT6IJMitpXMwJ2So4olb3XJ89smewzCuUeKsGy8PIq3uxZ6DtUCOAAuJ0Xg9EhmUkLy0XlMFyDqA=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Martin Pelikán"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyw9xLFxbtB69i6zYvs1xPE3G-2lGyxwBSZIQU3xwPhURBVEw9uUdLcmqIauhAecw7-RNt0vdTHSHbZfmDOrBHQ8i4Gxq-ne3BM8cbx0Wot70ZD9VHY3=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Amit Kotwal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywJXdo8m1dbKzlpr6w4E6wIkpkKVK1aucpP_uXJmextDeC0PZ5whewNoAPjaUtPNYmifiZFjb8RU6Kvxr0iBsWU202EBpcjfELPTWwimXZnJaRV2MVG=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Danielle Scherr"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywRPEZQj75pMoUwmp4hYHrqBuJTaizeEdOarC_3mdXZcL38CGTv_J6KtVe2xqopDy4bLhbd41TzrMruouuhKLkANCldHZRd2T6GrQe3CTXWCNxdWkue=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "David F Watson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyw26GfZ_00TMKxdXvb-uUUNSOeNfPTk2mAj_gL9hl1m4UpUebA1yIYwSBJ7KsoVktH1AQwnMMQhfoFfpQZMN89MerCUoOrRusZXP1SjPmUVU_WaNIw=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Siddhartha Saha"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzqrXIaoIG0BeSlNoxiGkcXjWIG7_-4RS6xRMcRIGM9GZy74tUWGNeMGq59wC-wht7mYN02nuFS73oNG7C0fsQP4j3ss1_9webM-DGp41mOCZIQmxT1=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Karthik Nagaraj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyweyP8YxfW0iXrRmLHPT187Beq_VSuHsJNnSbR6GUb_XkdAcsj5GNiqIZFvQMBKw3zUcUB0-BmrNQmuv4dLXDXH5HtyWyjog0gACGVNhCJ1vnf3EfA=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jerome Stanislaus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyy0iVUDywh5cwMG8PaeHNo4l75kMzm-INrkAl3URH2mW3CEMdtAUAUgDTT4tRAFIwTXZWhRDmtqRHFs8Hl5dVY3ltHt8t9jgJXdpJqFGc0ZZLJgSPg=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Sami Kizilbash"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyqKni9Ys1LSljFkpc3JqNHVFGLC1Q-pRMOYmXb1EUNuZzzPLAn5jQ3L0v9h1hmU-Dse2NmuVExZheGH-Vhe0YQTDD5W0Nj9GQm_14GFSueoMCf4tU=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Luigi Semenzato"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywRO4iYjM-NDe4tOiY1Y2tG33YyPDJHiP7m0Wt0JRnlt1W2cooJ58IQlLkjLJwkbL0oc4vb6RN1lyztErBIv6Sn7dQxPOiSwJ32RYcxkh8HvD9BppWu=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Tzvika Stein"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzrUPIXZQzQssmNaf8RKU4FqlWcuXYZZpaMAKD0yEWrizfch_R1Zll9RtVkYjgUc2P1Xiii1ABIelelTF0Q5R24CKJJ5y-f_k9tsQmBswN6OA20_Rs=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Baron Reznik"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywVI2wyJjmun4ZxwJ2FWcTkv1gVfwpQBqhSZxOUHPme8cfdQwfVtcZWXfFLMee12VBHimcAjMAwFEXRqWMJVc0Q0C5xqTpBt-1EEk8JETZYBcbCLS0=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jeremy Emken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyymcCFAhYBUoNbNN6kdmncoBttUaPPKxIda8EDpaBpIl14NXg7CJ6StjIlWj6_aKUtkb1Sm_cyjwAn__qrfH_5nTP8-1J8OlRpo5dLQ3cBgGNu0mPE=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Ajith Kumar (Ajith)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyx28fUbOrEVdh7SREPArNvQi6WH1Mzi25TE9xSAIcvi8yjK-11dteD2VPrvL2MJTnbeRxmojmWU131jd83rtEVIGQ57ZCn64eLGm-7ZjPVRizR0FPRd=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Norris Boyd"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywxFg94wqYVjc9fC8X_fD4V1JuIqOBDu-4BgHzCWeZ2CYjO7tjncbzIF3ZF-vv3PdAhvNbCTG22cGJVA1CkzNoYChP0zyw1rMhpPCyBJ55um61UieUk=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kim Paterson"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxjVniDgpp8rginufpJfpTOGU_gc-hLZloisGFZEmgBP0cEJtVE1FRP4ju1RIgY5Ymm3MyNF2UE3s2T1Oxgii-0prjJy1Ir1ByHYziA96EU9-9tieGz=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Brian Kravitz"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywDvVtRc7brX2EvtRtfmaYdpZuuiPYj92aNSRgU1Okw0RIrn9sKynQjE_-eun2H9vVnrc_KhhBmAGly26eXlkoO24doAvD4jTNl2oqxEQ5JyI52b2Wf=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kyle"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyw4LrBcl6MvDmTvsWmXcx0ilvMQJnseebas3mVRfVe6i8mh3iJjGaYCcwkkmAy2QRoaf4WWdaB3YIsK_-j4mr15MzPcdFyisGEkKTqwjcSWupg7ZjiU=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Chris Sulawko"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxUY3L5FU2MBVXmQYhfb2LTk215fid-4UA3v-DGjZ0lA0FwIfz_gwsPjlgMHHm8btqHy4jGYVqrKbpQBdlt5JCK5qX6PbANpWFXqzT-8lAo_-XisD5o=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Selim Cinek"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxNHZMaQftNqXHOMP04T__6UKknEjFUciycGlcgpKWVFG4p7xHElCxO_AeKAJzT7Rz0k97rwV7JfujfNzu4TCQbl0ptF_-3-feZeP879tw-N8GgxXHh=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jon Vaver"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzirYubIxa_4lJw8HqBDw1rwWQ87fq228EfQzQE422-pViG-CB756Aepsfs_-uFUygdl-bjWyJsunsb0r7Db7ySiEAVbYrWDKQZfrFaG2LS0lmRTULF=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Matthias Scheidegger"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyztj6Gi152pDvYvMU56TykPRDmK_m7UMnJqjzIhMEYl550ctb92eLbDsrPuHgv7-JNQn-PNDFeKB4c4wa9mOTolwyqJAHrvrnnUVLJjU1y_mbGxik=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Kunal Chawla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyw4WGCitzRd52dsSpmUPi_T7nrNQUyJi9IYpnZeY9jPbg9n8SXLH5no-f1LXUshw2A-q7hnpl740vyfNZb1Oe6iay3RkHGI3C4XdU6AU_TZ-2GPI3DF=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Cliff Redeker"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywmFaqq4vyQiVoSsl_s-dJY-QQQesB0o-A7YyNt5mjM5LtNQNlksIs2UHtNY2TjgWC_UfMnt0EGK9vaK1tf_i5p3ICjJ2TxZfqF6pX9oVRbTgCZhsU=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Chris McClanahan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyynkr0oiDPG0dZArfBeKwIcBd4bDDRDDyY_-SBzJBGl3uutM1C9CGncT2Qn5oDXOaRJefgFR3k17PAJrkPaRZOhNqmpM_30srFSN4GX0GDScZBY8hQ=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Arpana Hosabettu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyybOCh-3XxetBjh57Nfcc-Unx9EygVe3u_CnTUmd0LNE7DdiYP3h5Pq1N8wUO8wgoym-sIyWeYQaigDlIhtYKODvhRmClO9ZMGKoqtdZ_SCX9ajvlMs=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Max Braun"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyy_YfS0PCpiD3KoksdVTd4Cni2ZLNsEBfe6-inqm934CXrq4xuzGSY2wzc-sKoYYEuQZbSHpTouM734MWyVvfJ75X2KTUnTGg06oSEhT5SRNP3LAc8=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Dániel Darvas"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzHdXoJOk-PRL3gifnzzZf1-XgRNJJ8EGse3DYUdGyH3U9RqoqWbIxkNm0ux-53cE6sjkA30xBRDYK7urQEwxts7UnZeJvMuwUm_zoVIeK7zF-dhpA=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Megan Fu"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxoR7_OBi7Xc-t9wleMkbxM0PkD3NW6E9eU9NlT9IP_ggac0ugAt1XXiHq05jm-0-OLqxBzmIQxEo683iiPgt9mnQbJuyPvGk2VdbPSiDHG84IoKJ90=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Peter Norvig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywOHYwJKeYXWaDMWiRskfALOf2uPerrjFTPcL5nxO3fDOAID9fTG7XmQ3ykPWQ27hDCAp0QMDl5UbXVPCPv5SjOFIvRis8z_Dl4KlIMPkkEAkkQFeZJ=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Conor O'Neill "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywXQ_j4osK7g8ko2ujsvy6dCWe6NjGX1mks3YD0ZDJtefsy_CYU3MuO5WeP1cWVyg7lWcJXqZ_QnQCOjJNFolrKmq3pt96NtmrpAHHlDuahLv6b9yI=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Jeremy Emken"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyz8OsY61uc-l_wsm-Evp7_n2PpoW3x1yXKKZsHkXVGo_SKLSiO57_X1MqWtLBk62hVWvY_r8xfR-E3bWqWBYOwYtY-1badyYT8grBPu54umLCLirWh6=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Alberto Bertogli"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywZF9y2LNdeODDtdEurargA27m0EEJAauAPfyFgKmWbaHKRT5s0Bo_pQHAXmq2S-F6VOErKEHktIc9TOV3gzYG-YFON2Zo6xwEntc9mwOxA5xmEV1E=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Anton Galitch"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxWnMmywkLgNTSUZQi_KFQcXn8cjI2Vf5UgptSWqelyM0B8WNvWxlXIBbK2hFX8XHTBt20FTw08PekfxTO5AYV0OxqQtzDq5qmraNfuz3ve016F5XE=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Aleksandra Wysocka-Oler"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyy9KN5RGUgskY5R84DXL4aVZUjJQC7h-y5uwXb7JHwmZ3h9eNeyq_CZVMnO57Z1nkb-IaqyL4Yvq75fJG2jbbPJtejPWy-_Wj9CN-9uXz-akYSg8Oo=w1920-h1080-p-k-no-nd-mv",
+        "photographer": "Maricel Quesada Jara"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/npADGh_iE2zGUyr7pc-EINgmpGd5GqLE9Ngj4jLI8t57J9Zg8GQj0Zp_oWBy2GSU9WufJyjYqV3ZwmCpynX_mzE-SQaNMGNJv8gbGTCIcp5Od0ZQrZaNFogyL5dhOV4AhRquwFlOkj8uA86Y_gxabPIY3o7TAx1EnlBYK1KYPPpKxlGLpA9BeMDCue8LFE0aHw6wBdxXSH3LKRYjCGs05_fwOH0g8MrFHiZauCr3XlmaJNaxFehfLO-NZYeNSzfm18_zwZvlKxnOCv6TB1L68L41oQ=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/the-group-of-beautiful-traditional-myanmar-umbrella-royalty-free-image/698041476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/Oq6JtRFV2rEGze6rUjxXdjmyNuQp2EJCzix7ecVTLL99JBcwkqD5-E-SynOs_jLczauUqDvu4eHRCCT1I-KXpdd5RPh-wNiY2u0D3RQvJ2lZfm9fsDu_hCr0W3yxP2b7Hv_ML3cpnNWM2Qeh3D9UDqCJQgfaIFsq9eBceqIWl7i6msEnW_pruYXtWAv9xqWmpuyEUt3lZriAxneviUSX3Sj6wdaGG2gozK43MqLqew=s1280-w1920-h1080-fcrop64=1,000023d6fffffe04-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/radio-telescope-royalty-free-image/856454798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/aOT6ynrK3hDFbUhEaaY73e3pFm2JdSmCexYTxtSfYxpB_06zwbYUWYzUwku0yPYaXMAxaHh3nELZPdzeRB0--ND-GwDKd0ugnDgRA5CIhyFRW_vyODVk8H9Dp2BleYfZepRdBpJQHI01rcf-EnxsPPSGaw5TPdEz2PJ-wRMUhBGzQrG4mUoHFvctrIcHUPgKonTLzmgS_o4t1lX8qqObvvYOCfM9Pc3aBzBwa4_uhYE4jdapq4iZRiRntIki01DsgpF6VDgmwSrl=s1280-w1920-h1080-fcrop64=1,00003333ffffef6e-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/illustration/frosty-morning-in-the-village-royalty-free-illustration/471949925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/jKYxpPNQAF7V7p0QHb7g3us2BP0vY3sXdoQPj2R1COideMrl_mWWw7z2_ykHn3YCPYVNmqoITJXQ9z9RMQkZIVqVSfrCV2pWLVEf1qSiw9iW7pf1demP2k4e4WSDZe-nCeV1el_Xr7VO3HsG6BSy88Ze5kLr1JzLbgiXBRScyGBzTFLX6d_NPfPDNfQQNBdfRgpIW3NpHdWF0-4CQvFApTsUCGjX2QGQmGsxkz4AaFzG2lvft_MWa9zaEA=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/tokyo-cityscape-and-mt-fuji-royalty-free-image/683243210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/LOUNUIJlgEaGnhruqzmnhK40uaFKvebv2uTp208y9bndE8KCvIKAPov8_1B_61XKQ85Yl_WINpg0_D4R4eVrU_WPQ7YxtuTvKFrvQBP7b_LVtXfBd2hZOfKAhRQHuf3yrtBpUBWm8FvdbdRnjuGk6GbHfVUbkpIDseZboOOW8NUlI36fRut5NgEFzTErpCMxDADwlB4cLO8tiDfDe0sjDmk2-cPUk9JDPFf9mXtGrCEKb-M-77rGwZGQ1g=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/downtown-manhattan-at-night-royalty-free-image/638605060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/v2-hbg01yq6sJCsa6NGD8b04GNlUyudjcptMAp4inNsPIC1xqqFNgPVnSB2Rx6V9xTAFdZy6rMXkfh357xOCdWxyWem-eAdDjHAQjhr2dXl0-4MA5RSCOXUD9-Cjuf2czkZH_JJk4XPvgOJcQZ9yZfJt0wbir8ePI-k6yuJPmVphqz9TUtVaDxY6UBst13J_9MaM23VaxcQ110QkynEuL_2ypJuqC3xDpJ_U=s1280-w1920-h1080-fcrop64=1,0000028fffffc28e-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/westminster-royalty-free-image/853177728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/MmhYU5u4FBIBeuSNYZxUYBzA_3kwqoTZDIx4j0ufiGheGd-VGppcI4M-GnLg5HqzFfHR4ceMQDgR6n08HZNmFPGMOcHwhtc74TSDCPVhbBIgBHRlgpI9UHm1shXL8spx8oieon4OLp3sEHjZiozChXeadnrTc20pr9x85Ui2dGTT7F6sLS4ZHnR7JQeNQOiLPrunLL04SjfaaWmGOwTtAh9kVxOaQu1-qqnT=w1920-h1080-p-k-no-nd-mv"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/Oq6JtRFV2rEGze6rUjxXdjmyNuQp2EJCzix7ecVTLL99JBcwkqD5-E-SynOs_jLczauUqDvu4eHRCCT1I-KXpdd5RPh-wNiY2u0D3RQvJ2lZfm9fsDu_hCr0W3yxP2b7Hv_ML3cpnNWM2Qeh3D9UDqCJQgfaIFsq9eBceqIWl7i6msEnW_pruYXtWAv9xqWmpuyEUt3lZriAxneviUSX3Sj6wdaGG2gozK43MqLqew=s1280-w1920-h1080-fcrop64=1,000023d6fffffe04-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/radio-telescope-royalty-free-image/856454798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/iq7mdlY_tMbOl9bjhK7gson_6UoanrgQaGTDfF_3r9lr8QDzk9dZIV17kdzf8XQ_g4ZQwpWFujF42deENH5-X0cjfhliYnjwP7C9sfKpLDHZfUMmJl_XwJ-8NpG8jsoJHzm4VIlD93Ytco8GJ_eNyOKOkZZK2AF2KsHuqombTxpLsUofkuC9KmGE4iwtFNDL-kx2GAZiYaeSkZt7sz_jYySJnhJqRFi5n09ljfcAx7p3WXZvLVkchQp2F4JKDVVaRTWsJ7I0A-iuz82QRxEmBRIaXZ9b_tnYYdLePV4=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/beautiful-waterfall-in-green-forest-in-jungle-at-royalty-free-image/523801512"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [138.728, 35.361]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/6CEnzjNlLHmcmaXo_zDvsv8wwmDnKVqKE8N1FVJHc55yxwC-Obl4NFRya9Eng1nhK1CrrtTfa1qwcdbrLr5yNmdkFxcT71Akpl1JL1LhXmDUpLQgKFWCH-wROR0aEcMt4VtyuiHnQQsX8Ghi7TCnxyrSLwQofvBD-S26Cytj21K5I96PDPKDV9AcHwm6H7X_Nvt2ambHwhL0wPsXvubxOnGfDnmGZ_0fpHDSx_DA4jpYA48nrUTucaStPg=s1280-w1920-h1080-fcrop64=1,00001eb8fffff8e5-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/red-maple-leaves-mount-fuji-royalty-free-image/656264488",
+        "subject": "Mount Fuji",
+        "description": "Red maple leaves framing Mount Fuji",
+        "infoLink": "https://en.wikipedia.org/wiki/Mount_Fuji"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/0E_iFC1b08-LHm7YuL29GYAwZVBkgtD9QGCcUNHMpewGj_c82ZOpNnMntc0mvCnLx4fSxs1gXHWzgRpM9_v4uwxp3n6Mf_AxSDyV5li_-oDjpHXCx7wVI0bY-MYGSTnc0RLQh0rseMRKOAoy_o62E3JOU8eymRX0Vfyo0DwpsvcQVUzdM17EZnko2TXQASqSodT-yYzSaY5TAlRNTsEXajTcfTU6elNDUjKZcys4wytZLOwQhSPuZPhnUsQzbT15bik=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/abstract-colorful-paper-background-royalty-free-image/665574478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.366, 37.808]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/ANUizx5YM63Tglf_Il0IITuyO9oVyijxmd80Lk0cKrWn2hBml3T2dvVXyU9f-BdO-q7AIDCJkIdjZMHMFCq_MDdXvgI_z98fkuuJtokKXFig3VWQVFj1pQmUDvESyi65HjP0JhFqZjIE9JbVB855exR615vUQDDlg3GSDWl6r1nESWphtBNu9iNwMzt700T6oBXS5RY_nMjmQyWAzqFtMM7vgr5o121YjOA7gknvMv6_187AQOaGOoSZoh7vOVu5uUbMbL8COTy_Y0tEBKk=s1280-w1920-h1080-fcrop64=1,00001999ffffed5c-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/bay-bridge-and-san-francisco-skyline-at-sunset-royalty-free-image/638960768",
+        "subject": "Bay Bridge",
+        "description": "Bay Bridge and San Francisco skyline at sunset",
+        "infoLink": "https://en.wikipedia.org/wiki/San_Francisco%E2%80%93Oakland_Bay_Bridge"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/_f0p3cHGaw4xX5Ukj6qErJCJmV22brUjn9OngbbjLyibsAsglPrKTDHh7UiPnQyqIKFoTCQcAKzmckA9iFhq37YuhPi-riCSE1J2113worcuruToFysqyQWyLKTX13sbNpEa8-eQCEc1Ptffvg-AEaYA-zhnhQ0LzNAQ6bNrp9Gj9hoNObJZvGcVnAfsM15svevrJMnn2vNueR6eAd6a_2cdjIS9EzePv0T6wtSmqw=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/spring-blossoms-royalty-free-image/911596652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.284, 57.633]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/buxgxcfkZnBywLZjaPP79LsOMdnND1yA2Ko81jnttMEfYBdIXCBPZ1993nyA0QMIjCwLx6K8V57Hn7aP0p6uLXWZ030kQUdcAZRxWx1PKd6x_OVVkfpgZHcmjC3Fv3e8BO82Cg9SGdZTAQyybRmjxg9z37v3RAU7a4JciizBohoz1O8P8DzCO-s2g_o1V6H7tn6inlYU3xzixaVj-mHOL3rIfU9lcRgKSu5pUw=s1280-w1920-h1080-fcrop64=1,0000051effffff8d-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/the-quiraing-royalty-free-image/828279856",
+        "subject": "The Quiraing, Isle of Skye, Scotland",
+        "description": "Cuith-Raing is a landslip on the eastern face of Meall na Suiramach, the northernmost summit of the Trotternish or Tròndairnis (Scottish Gaelic) on the Isle of Skye, Scotland. Taken in dramatic December weather, the stormy ephemeral light opens and beams of short lived godrays radiate down over the spiked land formation called The Cleat, Loch Cleat, and Loch Leum na Luirginn below. The highest ridge to the right is called Dun Dubh, and the interesting craggy dinosaur back - shark fin formation on the lower right is called Cnoc a Mheirlich.",
+        "infoLink": "https://en.wikipedia.org/wiki/Quiraing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0, 0]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/bYFi6LYmEAdzM1KgF0pH28XEeVcsGMdfQ1oALUoHoZUDPGhefYYbuAx82hnEzUqf7B-Wgs8CA_yd9gzBsWqv82hWN_EUFGlCEO46DNZk1PgnoEeKis2LNkcX3j2OfS-fC3gVijmFVhiSo2fOs-j2QVwCkxjjQL3VEjxsMPUzIb3lj3kiHqQqcsIu_q7ZhEdZ3EBYnZPhcF5B20S8K9TAtGiO013F6R8dYQ2VSOU4aEJgz1xbTj3HCzT-QIcj5pgQnGJB_M7crzM=s1280-w1920-h1080-fcrop64=1,00001c28fffff656-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/three-doves-flying-over-north-atlantic-royalty-free-image/1032837954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [100.012, 12.199]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/H1HlML6ZiBGX07-5eNRn_4JMI_buLjaqbHCPl9JFPB-B_VqQrxZebkpA5mCrwi4o6Wl3dXg9U6sJv8TaW4fb4rX0Hjnhfebk5OEIuBWGIQwkM5tmp7sUu1CAL9FOd1ANY0OZ0tgYC20V03LzWUxfg2Be5fElkYZ3VpQOb3vYu5WGdsr9vGFZolH7wSYRVDT9Z3Rb3FeMOPhPhYGvOgk20BEU0onOA8qtUObUoy30pZb_VPvekidT1yG_jg=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/phraya-nakhon-cave-thailand-royalty-free-image/900468752",
+        "subject": "Phraya Nakhon Cave, Thailand",
+        "description": "Sun rays hit the 'throne' inside the Phraya Nakhon Cave, Khao Sam Roy Yot national park, Phrachuap Khiri Khan, Thailand.",
+        "infoLink": "https://en.wikipedia.org/wiki/Phraya_Nakhon_Cave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-36.183, -54.433]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/_T1l8JhR9fP2KbX7CgLACVMnSfAOgkaN5VfCz_RQv8-ZPjxa3cah3Y4l2iY4uANUAN9Tk5Fng9ENeIIXr94NvmzACzXoSXzOcDRr1yW5Og03oBDmvddSQp0v6DwMam3CPAX-blC6q1cnveeDFa9xka86PrgWehkC_9f475YRDXsT787LcExIDRpUfZHsM0Q-JejReFk0V5JHqSy1-n4ejjVlAsUGxoOBT2-_2eg=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/king-penguins-royalty-free-image/816471122",
+        "subject": "King Penguins",
+        "description": "Group of penguins at St Andrews Bay on South Georgia",
+        "infoLink": "https://en.wikipedia.org/wiki/St_Andrews_Bay,_South_Georgia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.9, 52.8]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/7mr70_fuIWcyFjlfmISJS4OtALNhKUkV9YtgsRpVJ0OrMxO0DKERREZfXTJXG2xSEJLZbrdpu5-Iiyd5DH_TiqgigNAVFfBHKp181-xRgJ6-KVsvWWcGKeXoxmX9T_23pxKarEP1LKkfbcXDxO3k6ALXsl_NHL0CecRb6i-IuQsYB9y5WFCgsIwrjcilVIGicEzPHb-EwT26mKT2bjsDQwH-noeuSR76eq_dwGfAo40gAelOo3Mp6hLG3y5e-Ux9qVM9quBxsCtrclNQoIDQ-xQ=s1280-w1920-h1080-fcrop64=1,00001999fffffc5e-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/male-bull-elk-jasper-national-park-alberta-canada-royalty-free-image/636079958",
+        "subject": "Bull Elk",
+        "description": "Male Bull Elk, Jasper National Park, Alberta, Canada",
+        "infoLink": "https://en.wikipedia.org/wiki/Jasper_National_Park"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.096, 21.839]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/NebBYwtc9r-Zu2Myh2bQqwBnsbh8P4mf24HtxXdu07SrZ2SmhSH3H8SUZCuArCMJsluwmJZRY9-vE8F37INKK-RqXpguMjhHLVaZYOZGOjqVB_pTfyS446T_eJJ7f3-5jJGYGf2LWm57HjfWhGd_tCOXaTH-_AtUvMPLVBMk7011tnBEODFcG_skWBhr7fWAuT3OtJmFqg-uEVvFW51eYXoxYgXy70E5UImRCIAiHVyK6vgdUWkrw43XOzKsfQ=s1280-w1920-h1080-fcrop64=1,000023d6fffffe04-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/rice-fields-terraced-on-sunset-royalty-free-image/614559964",
+        "subject": "Rice fields",
+        "description": "Terraced rice fields of Mu Cang Chai, YenBai, Vietnam, at sunset",
+        "infoLink": "https://en.wikipedia.org/wiki/M%C3%B9_Cang_Ch%E1%BA%A3i_district"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.182, 51.328]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/HjvmNdjiV59L_zI9MWFFGZiEuv0prbS66MEIr15XZAVYJsm_pY-_liAk_cEQ3BPtxlUaJLs-hsOZDtisyxfoG1ZqKGwmQhF7NqgQzpcCVQmKvy9nhkHn5ii1ZN1KKOOmSnVDfc0akI6KY477vp2XG-1BefYAJBw9AbuDem1lD5BTdMHRl5tMAYmLoEyo6PZUEfnfGlsO2J33Q4Frq5MgdYefROBuhDUXqMo22b1YFKGIZZMt2hPmxZ_Fyk_lBhw3IaNNETpv8uybhg=s1280-w1920-h1080-fcrop64=1,00001999fffff3c7-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/moraine-lake-in-banff-national-park-canada-royalty-free-image/585505924",
+        "subject": "Moraine Lake",
+        "description": "Moraine Lake in Banff National Park, Canada",
+        "infoLink": "https://en.wikipedia.org/wiki/Moraine_Lake"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.413, 43.856]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/noUXFCr7lLieAg0HYC6yU0uAKsttFB-mVKUSUIvyqLDkMz3kxXyTQOBlBwspQ63iDVlcCPyX7tqoX3hWYl3gYA55OkpzKTnUg8WTeBX2zG_YJ-E-fMKClRN0apTqhu3QEakMn5srzj_pVeh0SloMTePclHrdlmMiRqCKxEVHkdZ7jbFcYRl3KWPO1Nop_NleqAQAFLaMFZV3HdQFZsz4F55MNkWeIWMmfCUR1DkgVMU=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/city-in-the-rain-royalty-free-image/914494376",
+        "subject": "City in the Rain",
+        "description": "City during beautiful rainy night",
+        "infoLink": "https://en.wikipedia.org/wiki/Sarajevo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [94.86, 21.172]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/npADGh_iE2zGUyr7pc-EINgmpGd5GqLE9Ngj4jLI8t57J9Zg8GQj0Zp_oWBy2GSU9WufJyjYqV3ZwmCpynX_mzE-SQaNMGNJv8gbGTCIcp5Od0ZQrZaNFogyL5dhOV4AhRquwFlOkj8uA86Y_gxabPIY3o7TAx1EnlBYK1KYPPpKxlGLpA9BeMDCue8LFE0aHw6wBdxXSH3LKRYjCGs05_fwOH0g8MrFHiZauCr3XlmaJNaxFehfLO-NZYeNSzfm18_zwZvlKxnOCv6TB1L68L41oQ=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/the-group-of-beautiful-traditional-myanmar-umbrella-royalty-free-image/698041476",
+        "subject": "Group of beautiful traditional Myanmar umbrella",
+        "description": "Beautiful Myanmar Traditional Umbrella Made by the Cotton and the bamboo, it is one of the most favourite souvenir for peoples who travel in Myanmar.",
+        "infoLink": "https://en.wikipedia.org/wiki/Bagan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.129, 41.39]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/HiX4bOY7Ljb5OT7kylmyGbLHyPWH5mhicimwOZ2MTvUd9bc8XXJxPfT1q49vAlrQsGQ4fYreQABTyro5FVvc93UfekfSVwo6RxKj54cQDiA47TLmMOGCSrD-3TzVkQCwZXCDmQV7ru4MefRq__QMK4MJisxTgj5pPKq6Lr6Nrd3_geMrJ24COSAPRJO9-pS-pXVJURSVK8YMmcR62FU_RUFoFjUVHiVyPDBU7IAr_l_cQWDdUiBlHwWUujOZFn7viOB_qyg=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/green-building-with-vertical-garden-royalty-free-image/1262893156",
+        "description": "Green building with vertical garden",
+        "subject": "Grupo Planeta, Barcelona, Spain",
+        "infoLink": "https://en.wikipedia.org/wiki/Grupo_Planeta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [139.692, 35.69]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/slP592U0fvEPU6OlAs8hSohZgwG4qE03WwHGfdq4hSS8RW1w8V7Iu8J228jitoPc382xnCwTUyhlwa9CxmDpfQvGm4I-KJjRvjakKav8sGKL9nQ4UFh3m47QcZLFHC2LQdPhdj2IKbRlScDtjqdh23YYP834yKJP6h_wlXBox6wHalUInH_loXUn8rMtHv-xLUOqBzA6jLalxMSu1r5C3QKj4tVKb_pHe7ZZKrtnkcjwYA0H19G66AkCQD4R-2br7Ed3JTQmgyom703wwb9THHwGwOVauSQoUA=s1280-w1920-h1080-fcrop64=1,000023d6fffffe04-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/low-angle-view-of-shiny-modern-skyscrapers-in-tokyo-royalty-free-image/904376970",
+        "description": "Low angle view of shiny modern skyscrapers in Tokyo, Japan"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-6.097, 53.203]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/cFO7Yncq0FRKHeArilQBUBI-7P7RtPXVd5nkoyLWYRAxyhbxLLFDkS9c8aYv7CtAjwUxSK0cF8CGYDjrtJRrr15M9Z4ILSfYFG_EDym8rV0izC62_AQd03hsxdxVxdoqo98FFd1SOqqV3EMjzuYypQQ1O83AhOWKUjtLgZfumu9HvDn7puV2PUE2zimPkcM78lMRcodL5RTSbIlFCmRtglpsxQrhPA=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/carousel-royalty-free-image/91870983",
+        "subject": "Carousel",
+        "description": "Beautiful looking carousel, with great detail, colours and light bulbs.",
+        "infoLink": "https://en.wikipedia.org/wiki/Bray,_County_Wicklow"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.441, 33.975]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/F_ioBUbBs8e2DAdMpAw5XzjtvEzkpqE8aikyWDz_j14OJGlgwZharsZr806fdRFUu0y623ZZcZmzdzSAFXyeCOQjGSabiBGb6R01UZRbT8LIJGMMPiYCVMqU9D6ZcHZLqNj2Wx7bM6UfItkvvytWnCzm8d2EXte9e00sNy_diKEajq7yT2HVdJRX3Ojy4NbEcMsM4qUv2QdzNic7qimcCeYGLvsniA7elKeSAk8cG3AOYrZKYLeZnxPDhoNSVPmuuqv5vXVKFYndYtA4Tspz4RDWFkiArK1gV4J5JbZUrAlEXw=s1280-w1920-h1080-fcrop64=1,00001999fffff3c7-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/ornate-stucco-work-borujerdi-house-kashan-isfahan-royalty-free-image/956035004",
+        "description": "Ornate stucco work on the ceiling of the reception hall in Borujerdi House, situated in Kashan, Isfahan province of Iran. The Borujerdi historical house was built in 1857 by architect Ustad Ali Maryam, for the wife of Seyyed Mehdi Borujerdi, a wealthy merchant. The wife came from the affluent Tabatabaei family, which Seyyed Mehdi fall in love with her and built this house for her. It has all the classic signatures of traditional Persian residential architecture, such as a biruni yard and a daruni yard. The house took eighteen years to build using 150 craftsmen.",
+        "infoLink": "https://en.wikipedia.org/wiki/Borujerdi_House",
+        "subject": "Borujerdi House"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.504, 25.908]
+      },
+      "properties": {
+        "url": "https://ccp-lh.googleusercontent.com/proxy/NM0SxZIgWopbs6Q3EQkZBRzSxtTyNi-bbr743VWjcHoRNctXZR71MvnTr2ICns1Zvg1Hr8ECnXMhQMZuhGLTaeJbYyY3NdNRFMlodQKI-5bAvWgEV_LVqCiCInuvznldnb0IU3jYjWni93TkeHhwj4iG0yqwyoorxlv_eX1Ng5KX9jvPFF0QH4mXJyV893cWXBhjHykmkv6divEamtV8FMeDdjzhQ1Uq72lTZ72gF0bXyqxO=w1920-h1080-p-k-no-nd-mv",
+        "source": "https://www.gettyimages.com/detail/photo/coral-reef-with-fish-royalty-free-image/169496405",
+        "description": "Golden butterflyfish swimming over coral reef with soft corals, Lyretail anthias and Pygmy sweepers.",
+        "subject": "Red Sea, Egypt",
+        "infoLink": "https://en.wikipedia.org/wiki/Red_Sea"
+      }
     }
   ]
 }
