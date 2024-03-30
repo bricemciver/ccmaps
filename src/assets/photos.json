@@ -573,33 +573,42 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-123.66, 38.872]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxIyVa1hWRjnDkzQvnrVavP8IyEwJr1Eoze8PBazpc2E6GyTi2O25F4Wr1C5hUvHtN6kfBWr8JiJWIn7YhXbpalyhfCEqH-LH8Y1_RBpgDuD_y07GI=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Jeremy Emken"
+        "photographer": "Jeremy Emken",
+        "subject": "Bowling Ball Beach",
+        "description": "Bowling Ball Beach is a beach in Mendocino County, California, known for its unique rock formations. The beach is named for the large spherical boulders that dot the shoreline, resembling bowling balls. The beach is a popular spot for photographers and nature enthusiasts.",
+        "infoLink": "https://en.wikipedia.org/wiki/Bowling_Ball_Beach"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [2.336, 48.861]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxZCa6626kf-tC3ZKPz2SfDMKrVM7tanloEUOaX2EuRu9_u7zLi-kGx68cDKxFpSn5ixeVU2v3V2WHk3atvQcZDm3NtIzs6Uf5y3T97tRXY7Mph-ho=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Heena Mukhi"
+        "photographer": "Heena Mukhi",
+        "subject": "Louvre Museum",
+        "description": "The Louvre or the Louvre Museum, is a national art museum in Paris, France. It is located on the Right Bank of the Seine in the city's 1st arrondissement (district or ward) and home to some of the most canonical works of Western art, including the Mona Lisa and the Venus de Milo.",
+        "infoLink": "https://en.wikipedia.org/wiki/Louvre"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-67.798, -22.213]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyyuX7AyE4kgmQn5IeX_rwKe_4oJeN-CiWvZxP_LwZlXG7wr85a5dpZhgf4kJUbGfOwqV1vvvklti_ZssLmUXgiwlLSgnlfgA0aPadPNSnOEvSbUCg=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Canoee Liu"
+        "photographer": "Canoee Liu",
+        "subject": "Laguna Colorada",
+        "description": "Laguna Colorada (Red Lagoon) is a shallow salt lake in the southwest of the altiplano of Bolivia, within Eduardo Avaroa Andean Fauna National Reserve and close to the border with Chile.",
+        "infoLink": "https://en.wikipedia.org/wiki/Laguna_Colorada"
       }
     },
     {
@@ -617,7 +626,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-115.349, 51.13]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywcamMoujf6LmH5H-oCY2ZvFsbd4nO2o3GLWqugYFXqiYoxkIuhaX8gS-mGZnzzE7SNY53w_3afcsJCNzYju0PFo3f5Mu6jWPS4DoJwGpuU_a-XQPcb=w1920-h1080-p-k-no-nd-mv",
@@ -628,44 +637,42 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [8.551, 47.373]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyy2GTbUIdk_ZWfGthRx0r8B2sLoAXmseXyd-Fpsv_4rnMhlIYLaW1d0zFlsIsfGjsoWsixx3jARM0kxQQ4aUNzv8inocN95hXuE30nLOl2zx1IkdCMy=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Michael Fang"
+        "photographer": "Michael Fang",
+        "subject": "Rechtswissenschaftliche Bibliothek",
+        "description": "The Rechtswissenschaftliche Bibliothek is the law library of the University of Zurich, Switzerland. The library is located in the main building of the university and houses a collection of legal literature and resources.",
+        "infoLink": "https://en.wikipedia.org/wiki/University_of_Zurich"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [-121.761, 46.853]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyzOylRmd4tHLG_IU_F29i4KKQqeRyJdB6V4yzxjQSgIsmaPDuv44eUGs8RlZrhzEj1ft_HD7ps0w4hvrpfcg_BN7h2gGh1kCmbMkuaAfrG8BC-kqvo=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Su Khaw"
+        "photographer": "Su Khaw",
+        "subject": "Mount Rainier",
+        "description": "Mount Rainier is the highest mountain in the state of Washington and the Cascade Range of the Pacific Northwest. It is a large stratovolcano located 59 miles (95 km) south-southeast of Seattle, in Mount Rainier National Park. It is the most topographically prominent mountain in the contiguous United States and the Cascade Volcanic Arc, with a summit elevation of 14,411 ft (4,392 m).",
+        "infoLink": "https://en.wikipedia.org/wiki/Mount_Rainier"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [0, 0]
-      },
-      "properties": {
-        "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYyxoR7_OBi7Xc-t9wleMkbxM0PkD3NW6E9eU9NlT9IP_ggac0ugAt1XXiHq05jm-0-OLqxBzmIQxEo683iiPgt9mnQbJuyPvGk2VdbPSiDHG84IoKJ90=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Peter Norvig"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [0, 0]
+        "coordinates": [12.454, 41.907]
       },
       "properties": {
         "url": "https://ccp-lh.googleusercontent.com/chromecast-private-photos/AOhGYywzifOdmTRnoylWSdwodVo9IgRKb96yH1BO5E8_-IpZoRAbn9Ynm2uGNbprho3VExIJJdDMVizvtwr1Xq8WDg6D4iQQ3qH_jxkcgHG24ral2a0xl51u=w1920-h1080-p-k-no-nd-mv",
-        "photographer": "Siddhartha Saha"
+        "photographer": "Siddhartha Saha",
+        "subject": "Bramante Staircase",
+        "description": "Bramante Staircase is the name given to two staircases in the Vatican Museums in the Vatican City State: the original stair, built in 1505, and a modern equivalent from 1932.",
+        "infoLink": "https://en.wikipedia.org/wiki/Bramante_Staircase"
       }
     },
     {
